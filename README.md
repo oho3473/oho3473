@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 Blog : https://blog.naver.com/gamenlife97
 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oho3473&show_icons=true&theme=tokyonight)
+
+
 ## 참가한 행사
 2022 MSW x SuperHackathon : 2022.09.07~2022.11.27
 
