@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Blog : https://blog.naver.com/gamenlife97
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oho3473&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oho3473&show_icons=true&theme=midnight-purple)
 
 
 ## 참가한 행사
