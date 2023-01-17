@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-안녕하세요. 게임 개발자를 꿈꾸는 유승운입니다.
+안녕하세요. 게임 개발자로 레벨 업 중인 유승운입니다.
 
+Blog : https://blog.naver.com/gamenlife97
 
-## 경력
+## 참가한 행사
+2022 MSW x SuperHackathon : 2022.09.07~2022.11.27
+
+##제작한 게임
+슈퍼해커톤 참가 작품 : https://maplestoryworlds.nexon.com/play/b83875c1b74b4961b5f6ae6b96cbb65a
 
 
 
