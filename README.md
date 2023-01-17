@@ -22,7 +22,7 @@ Blog : https://blog.naver.com/gamenlife97
 ## 참가한 행사
 2022 MSW x SuperHackathon : 2022.09.07~2022.11.27
 
-##제작한 게임
+## 제작한 게임
 슈퍼해커톤 참가 작품 : https://maplestoryworlds.nexon.com/play/b83875c1b74b4961b5f6ae6b96cbb65a
 
 
